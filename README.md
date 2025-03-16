@@ -20,10 +20,10 @@ tasm first.asm
 
 If the assembly is successful, you will see:
 
--No error messages.
--No warning messages.
--One pass completed.
--Available remaining memory displayed.
+- No error messages.
+- No warning messages.
+- One pass completed.
+- Available remaining memory displayed.
 
 # 2. Link the Object File
 
