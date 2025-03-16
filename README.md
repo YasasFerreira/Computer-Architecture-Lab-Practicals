@@ -15,7 +15,8 @@ Prerequisites
 1. Assemble the Program
 Run the following command to assemble the assembly source file:
 
---sh--
+--sh--  
+
 tasm first.asm
 
 If the assembly is successful, you will see:
@@ -27,12 +28,14 @@ If the assembly is successful, you will see:
 
 # 2. Link the Object File
 
---sh--
+--sh--  
+
 tlink first.obj
 
 If successful, the linker will generate an executable file (first.exe).
 
 # 3. Run the Executable
 
---sh--
+--sh--  
+
 first
