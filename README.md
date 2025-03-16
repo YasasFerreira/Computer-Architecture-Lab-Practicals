@@ -15,7 +15,7 @@ Prerequisites
 1. Assemble the Program
 Run the following command to assemble the assembly source file:
 
---sh--  
+--sh    
 
 tasm first.asm
 
